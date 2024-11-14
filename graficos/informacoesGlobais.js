@@ -1,0 +1,1 @@
+const url ='https://raw.githubusercontent.com/dudumarques/ciencia-de-dados-eduardo/refs/heads/main/dados-globais.json';
