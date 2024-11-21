@@ -12,7 +12,7 @@ async function visualizarInformacoesGlobais() {
     em alguma rede social e passam em média ${dados.tempo_medio} horas conectadas.`
 
     const container = document.getElementById('graficos-container');
-    container.appendChild(paragrafo);
+    
 
 }
 
